@@ -18,9 +18,9 @@ Find all the differences to win the game!
 
 # Technologies Used 💻
 HTML5 for structure
-CSS3 for styling
-JavaScript for game logic
-JSON for configuration
+  CSS3 for styling
+  JavaScript for game logic
+  JSON for configuration
 
 # Contact 📬
 Created by Aryan Dubey
