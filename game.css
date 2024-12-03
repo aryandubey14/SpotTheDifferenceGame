@@ -1,0 +1,63 @@
+body 
+{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-image: url(assests/BG1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+  
+#game-title
+{
+    font-size: 60px;
+}
+
+#game-container 
+{
+    margin: 20px auto;
+    max-width: 1190px;
+    max-height: 800px;
+    background-image: url(assests/WoodenTitle.png);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+#images-container 
+{
+  display: flex;
+  justify-content:space-evenly;
+  gap: 0px;
+  margin: 10px 0;
+}
+
+.image-frame 
+{
+  width: fit-content;
+  padding: 10px;
+  border: 5px solid #8B4513; /* Brown border for the frame */
+  border-radius: 10px; /* Smooth edges */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3); /* Shadow for depth */
+  background-color: #F5DEB3; /* Light beige frame background */
+  margin: 10px auto; /* Center the frame */
+}
+  
+canvas 
+{
+  border: 1px solid #ccc;
+}
+  
+#score-timer 
+{
+  display: flex;
+  justify-content: space-between;
+  max-width: 400px;
+  margin: 10px auto;
+}
+
+#score, #timer 
+{
+  font-size: 40px;
+}
+  
