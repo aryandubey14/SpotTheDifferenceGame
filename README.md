@@ -15,3 +15,17 @@ The game displays two images side by side.
 Click on the differences in the images to mark them.
 Each correct click highlights the difference and increases your score.
 Find all the differences to win the game!
+
+# Technologies Used 💻
+HTML5 for structure
+CSS3 for styling
+JavaScript for game logic
+JSON for configuration
+
+# Contact 📬
+Created by Aryan Dubey
+Feel free to reach out for suggestions or questions.
+
+Email: aryan.109841@gmail.com
+GitHub: aryandubey14
+## Enjoy the game! 🎉
